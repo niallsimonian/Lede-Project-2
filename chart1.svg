@@ -1,1 +1,444 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="exportSvg" width="2000" height="500"><defs/><rect width="2000" height="500" transform="translate(0, 0)" fill="rgb(255, 255, 255)" style="fill: rgb(255, 255, 255);"/><g><g id="__svelte-dw-svg" clip-path="url(#rect-mask-sHp2KNfWSM8Mnn9tuKZSa)"><clipPath id="rect-mask-sHp2KNfWSM8Mnn9tuKZSa"><rect x="0" y="0" width="2000" height="500"/></clipPath><g id="outer-container-svg dw-chart-styles-svg datawrapper-6CDpQ-cadg66-svg svelte-crzbxb-svg static-svg" clip-path="url(#rect-mask-q-r5CvchUOQ72Q0DnoBcg)"><clipPath id="rect-mask-q-r5CvchUOQ72Q0DnoBcg"><rect x="0" y="0" width="2000" height="500"/></clipPath><g id="header-svg"><text transform="translate(0, 0)"><tspan fill="rgb(0,0,0)" x="0" y="22" style="font-family: Roboto; font-weight: 700; font-stretch: 100%; font-size: 22px;">Fox News Primetime (+ The Five) Performance in June 2022</tspan></text><text transform="translate(0, 35)"><tspan fill="rgb(24,24,24)" x="0" y="14" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 14px;">*The data represents cable news ratings for Monday-Friday; the shows do not air on the weekends.</tspan></text></g><g id="chart-svg"><g id="svg-main-svg" clip-path="url(#rect-mask-NApUwHAW2ebtT4iwKd4pk)" transform="translate(0, 62)"><clipPath id="rect-mask-NApUwHAW2ebtT4iwKd4pk"><rect x="0" y="0" width="2000" height="405"/></clipPath><g id="group-svg" transform="translate(58.14063, 40)"><g id="x-grid-svg"/><g id="y-grid-svg"><g id="y-grid-lines-svg grid-y-svg datawrapper-6CDpQ-1fn7900-svg"><line x1="0" x2="1931.4287433624268" y1="0" y2="0" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 34.5)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 69)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 103.5)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 138)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 172.5)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 207)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 241.5)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 276)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 310.5)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/><line x1="0" x2="1931.4287433624268" y1="0" y2="0" transform="translate(0, 345)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: butt; stroke: rgb(231, 231, 231);"/></g></g><g id="lines-svg"><g id="FIVE,-svg THE-svg"><path d="M9.897510989996288,122.82L110.50981211538756,61.2375L211.12211324077882,89.87249999999999L311.7344143661701,40.537500000000016L412.3467154915613,71.07L512.9590166169526,72.6225L613.5713177423438,42.26250000000002L714.183618867735,2.7600000000000025L814.7959199931264,54.85500000000001L915.4082211185176,86.42249999999999L1016.020522243909,120.92250000000001L1116.6328233693002,36.91499999999999L1217.2451244946915,51.23249999999999L1317.8574256200827,49.68000000000001L1418.4697267454742,48.645L1519.0820278708652,79.35L1619.6943289962567,43.815L1720.3066301216477,63.9975L1820.9189312470392,74.34750000000001L1921.5312323724304,95.73749999999998" stroke="rgb(136,245,255)" id="FIVE, THE" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(136, 245, 255);"/></g><g id="INGRAHAM-svg ANGLE,-svg THE-svg"><path d="M9.897510989996288,296.1825L110.50981211538756,248.57249999999996L211.12211324077882,268.755L311.7344143661701,252.195L412.3467154915613,128.34L512.9590166169526,284.7975L613.5713177423438,228.39L714.183618867735,176.12249999999997L814.7959199931264,223.04250000000002L915.4082211185176,217.005L1016.020522243909,303.77250000000004L1116.6328233693002,209.07L1217.2451244946915,237.8775L1317.8574256200827,225.97500000000002L1418.4697267454742,199.2375L1519.0820278708652,252.02249999999998L1619.6943289962567,215.625L1720.3066301216477,236.32500000000002L1820.9189312470392,205.44749999999996L1921.5312323724304,224.4225" stroke="rgb(88,202,248)" id="INGRAHAM ANGLE, THE" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(88, 202, 248);"/></g><g id="JESSE-svg WATTERS-svg PRIMETIME-svg"><path d="M9.897510989996288,209.415L110.50981211538756,168.87750000000003L211.12211324077882,194.58L311.7344143661701,164.565L412.3467154915613,135.93L512.9590166169526,199.755L613.5713177423438,117.29999999999998L714.183618867735,94.185L814.7959199931264,153.86999999999998L915.4082211185176,165.7725L1016.020522243909,211.82999999999998L1116.6328233693002,101.60249999999999L1217.2451244946915,151.2825L1317.8574256200827,157.4925L1418.4697267454742,129.375L1519.0820278708652,227.8725L1619.6943289962567,147.48749999999998L1720.3066301216477,158.7L1820.9189312470392,135.7575L1921.5312323724304,193.20000000000002" stroke="rgb(24,161,205)" id="JESSE WATTERS PRIMETIME" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(24, 161, 205);"/></g><g id="GUTFELD!-svg"><path d="M9.897510989996288,263.58L110.50981211538756,247.70999999999998L211.12211324077882,250.815L311.7344143661701,240.80999999999997L412.3467154915613,206.8275L512.9590166169526,261.165L613.5713177423438,262.2L714.183618867735,240.2925L814.7959199931264,211.65749999999997L915.4082211185176,223.04250000000002L1016.020522243909,247.1925L1116.6328233693002,215.625L1217.2451244946915,235.63500000000002L1317.8574256200827,231.6675L1418.4697267454742,218.73L1519.0820278708652,244.26L1619.6943289962567,227.35500000000002L1720.3066301216477,227.35500000000002L1820.9189312470392,241.6725L1921.5312323724304,241.15500000000003" stroke="rgb(0,122,164)" id="GUTFELD!" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(0, 122, 164);"/></g><g id="HANNITY-svg"><path d="M9.897510989996288,215.625L110.50981211538756,167.325L211.12211324077882,222.6975L311.7344143661701,194.7525L412.3467154915613,120.05999999999999L512.9590166169526,223.215L613.5713177423438,178.02L714.183618867735,22.942500000000003L814.7959199931264,157.4925L915.4082211185176,182.67750000000004L1016.020522243909,245.985L1116.6328233693002,156.4575L1217.2451244946915,212.34749999999997L1317.8574256200827,160.07999999999998L1418.4697267454742,158.01L1519.0820278708652,242.88L1619.6943289962567,184.57499999999996L1720.3066301216477,211.65749999999997L1820.9189312470392,176.64000000000001L1921.5312323724304,174.74249999999998" stroke="rgb(0,85,125)" id="HANNITY" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(0, 85, 125);"/></g></g><g id="line-symbols-svg"><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(9.89751, 122.82) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(110.50981, 61.2375) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(211.12211, 89.8725) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(311.73441, 40.5375) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(412.34672, 71.07) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(512.95902, 72.6225) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(613.57132, 42.2625) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(714.18362, 2.76) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(814.79592, 54.855) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(915.40822, 86.4225) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1016.02052, 120.9225) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1116.63282, 36.915) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1217.24512, 51.2325) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1317.85743, 49.68) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1418.46973, 48.645) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1519.08203, 79.35) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1619.69433, 43.815) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1720.30663, 63.9975) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1820.91893, 74.3475) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="FIVE, THE" transform="translate(1921.53123, 95.7375) scale(5)" style="fill: rgb(136, 245, 255); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(9.89751, 296.1825) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(110.50981, 248.5725) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(211.12211, 268.755) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(311.73441, 252.195) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(412.34672, 128.34) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(512.95902, 284.7975) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(613.57132, 228.39) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(714.18362, 176.1225) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(814.79592, 223.0425) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(915.40822, 217.005) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1016.02052, 303.7725) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1116.63282, 209.07) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1217.24512, 237.8775) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1317.85743, 225.975) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1418.46973, 199.2375) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1519.08203, 252.0225) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1619.69433, 215.625) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1720.30663, 236.325) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1820.91893, 205.4475) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="INGRAHAM ANGLE, THE" transform="translate(1921.53123, 224.4225) scale(5)" style="fill: rgb(88, 202, 248); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(9.89751, 209.415) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(110.50981, 168.8775) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(211.12211, 194.58) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(311.73441, 164.565) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(412.34672, 135.93) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(512.95902, 199.755) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(613.57132, 117.3) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(714.18362, 94.185) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(814.79592, 153.87) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(915.40822, 165.7725) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1016.02052, 211.83) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1116.63282, 101.6025) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1217.24512, 151.2825) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1317.85743, 157.4925) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1418.46973, 129.375) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1519.08203, 227.8725) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1619.69433, 147.4875) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1720.30663, 158.7) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1820.91893, 135.7575) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="JESSE WATTERS PRIMETIME" transform="translate(1921.53123, 193.2) scale(5)" style="fill: rgb(24, 161, 205); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(9.89751, 263.58) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(110.50981, 247.71) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(211.12211, 250.815) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(311.73441, 240.81) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(412.34672, 206.8275) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(512.95902, 261.165) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(613.57132, 262.2) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(714.18362, 240.2925) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(814.79592, 211.6575) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(915.40822, 223.0425) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1016.02052, 247.1925) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1116.63282, 215.625) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1217.24512, 235.635) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1317.85743, 231.6675) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1418.46973, 218.73) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1519.08203, 244.26) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1619.69433, 227.355) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1720.30663, 227.355) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1820.91893, 241.6725) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="GUTFELD!" transform="translate(1921.53123, 241.155) scale(5)" style="fill: rgb(0, 122, 164); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(9.89751, 215.625) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(110.50981, 167.325) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(211.12211, 222.6975) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(311.73441, 194.7525) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(412.34672, 120.06) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(512.95902, 223.215) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(613.57132, 178.02) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(714.18362, 22.9425) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(814.79592, 157.4925) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(915.40822, 182.6775) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1016.02052, 245.985) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1116.63282, 156.4575) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1217.24512, 212.3475) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1317.85743, 160.08) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1418.46973, 158.01) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1519.08203, 242.88) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1619.69433, 184.575) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1720.30663, 211.6575) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1820.91893, 176.64) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/><path d="M1,0A1,1,0,1,1,-1,0A1,1,0,1,1,1,0" id="HANNITY" transform="translate(1921.53123, 174.7425) scale(5)" style="fill: rgb(0, 85, 125); opacity: 0.75;"/></g><g id="x-grid-svg"><g id="x-tick-labels-svg text-axis-svg grid-x-svg datawrapper-6CDpQ-63wp0p-svg" transform="translate(0, 350)"><text transform="translate(9.89751, 12) translate(-14.95312, 0) translate(14.953123092651367, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">2-Jun</tspan></text><text transform="translate(110.50981, 12) translate(-14.95313, 0) translate(14.953125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">5-Jun</tspan></text><text transform="translate(211.12211, 12) translate(-14.95313, 0) translate(14.953132629394531, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">6-Jun</tspan></text><text transform="translate(311.73441, 12) translate(-14.95313, 0) translate(14.953125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">7-Jun</tspan></text><text transform="translate(412.34672, 12) translate(-14.95313, 0) translate(14.953125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">8-Jun</tspan></text><text transform="translate(512.95902, 12) translate(-14.95313, 0) translate(14.953125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">9-Jun</tspan></text><text transform="translate(613.57132, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">12-Jun</tspan></text><text transform="translate(714.18362, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">13-Jun</tspan></text><text transform="translate(814.79592, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">14-Jun</tspan></text><text transform="translate(915.40822, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">15-Jun</tspan></text><text transform="translate(1016.02052, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">16-Jun</tspan></text><text transform="translate(1116.63282, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">19-Jun</tspan></text><text transform="translate(1217.24512, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">20-Jun</tspan></text><text transform="translate(1317.85743, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">21-Jun</tspan></text><text transform="translate(1418.46973, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">22-Jun</tspan></text><text transform="translate(1519.08203, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">23-Jun</tspan></text><text transform="translate(1619.69433, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">26-Jun</tspan></text><text transform="translate(1720.30663, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">27-Jun</tspan></text><text transform="translate(1820.91893, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">28-Jun</tspan></text><text transform="translate(1921.53123, 12) translate(-18.32813, 0) translate(18.328125, 0)" style="text-anchor: middle;"><tspan fill="rgb(116, 116, 116)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">29-Jun</tspan></text></g></g><g id="y-grid-svg"><g id="y-tick-labels-svg number-axis-svg grid-y-svg datawrapper-6CDpQ-yhj5g2-svg" transform="translate(-5, 0)"><text transform="translate(0, 349) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">1,000,000</tspan></text><text transform="translate(0, 314.5) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">1,200,000</tspan></text><text transform="translate(0, 280) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">1,400,000</tspan></text><text transform="translate(0, 245.5) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">1,600,000</tspan></text><text transform="translate(0, 211) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">1,800,000</tspan></text><text transform="translate(0, 176.5) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">2,000,000</tspan></text><text transform="translate(0, 142) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">2,200,000</tspan></text><text transform="translate(0, 107.5) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">2,400,000</tspan></text><text transform="translate(0, 73) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">2,600,000</tspan></text><text transform="translate(0, 38.5) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">2,800,000</tspan></text><text transform="translate(0, 4) translate(-52.14063, 0) translate(52.140625, 0)" style="text-anchor: end;"><tspan fill="rgb(162, 162, 162)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;" x="0" dominant-baseline="auto" y="0">3,000,000</tspan></text></g><g id="y-base-lines-svg grid-y-svg datawrapper-6CDpQ-1io9s9d-svg"><line x1="1931.4287433624268" x2="0" y1="0" y2="0" transform="translate(0, 517.5)" style="fill: none; stroke-width: 1; stroke-linejoin: miter; stroke-linecap: square; stroke: rgb(24, 24, 24);"/></g></g></g></g><g id="FIVE,-svg THE-svg" clip-path="url(#rect-mask-RQl-FtzYPtFHwfAViFRQb)" transform="translate(0, 62)"><clipPath id="rect-mask-RQl-FtzYPtFHwfAViFRQb"><rect x="0" y="0" width="16" height="20"/></clipPath><path d="M1,10 L15,10" stroke="rgb(136,245,255)" id="FIVE, THE" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(136, 245, 255);"/></g><text transform="translate(20, 64.78125)" id="FIVE, THE"><tspan fill="rgb(24,24,24)" x="0" y="12.828125" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;">The Five</tspan></text><g id="JESSE-svg WATTERS-svg PRIMETIME-svg" clip-path="url(#rect-mask-gt-ZLy0iOI2T9ouNCNqM1)" transform="translate(72.75, 62)"><clipPath id="rect-mask-gt-ZLy0iOI2T9ouNCNqM1"><rect x="0" y="0" width="16" height="20"/></clipPath><path d="M1,10 L15,10" stroke="rgb(24,161,205)" id="JESSE WATTERS PRIMETIME" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(24, 161, 205);"/></g><text transform="translate(92.75, 64.78125)" id="JESSE WATTERS PRIMETIME"><tspan fill="rgb(24,24,24)" x="0" y="12.828125" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;">Jesse Waters Primetime</tspan></text><g id="HANNITY-svg" clip-path="url(#rect-mask-xhLyUpIs0cewkGi0TWq1D)" transform="translate(231.04688, 62)"><clipPath id="rect-mask-xhLyUpIs0cewkGi0TWq1D"><rect x="0" y="0" width="16" height="20"/></clipPath><path d="M1,10 L15,10" stroke="rgb(0,85,125)" id="HANNITY" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(0, 85, 125);"/></g><text transform="translate(251.046875, 64.78125)" id="HANNITY"><tspan fill="rgb(24,24,24)" x="0" y="12.828125" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;">Hannity</tspan></text><g id="INGRAHAM-svg ANGLE,-svg THE-svg" clip-path="url(#rect-mask-MyymMRocfaRtKK608mfrL)" transform="translate(299.89063, 62)"><clipPath id="rect-mask-MyymMRocfaRtKK608mfrL"><rect x="0" y="0" width="16" height="20"/></clipPath><path d="M1,10 L15,10" stroke="rgb(88,202,248)" id="INGRAHAM ANGLE, THE" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(88, 202, 248);"/></g><text transform="translate(319.890625, 64.78125)" id="INGRAHAM ANGLE, THE"><tspan fill="rgb(24,24,24)" x="0" y="12.828125" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;">The Ingraham Angle</tspan></text><g id="GUTFELD!-svg" clip-path="url(#rect-mask-7xIPlY4PxjZloDALDTIV6)" transform="translate(435.04688, 62)"><clipPath id="rect-mask-7xIPlY4PxjZloDALDTIV6"><rect x="0" y="0" width="16" height="20"/></clipPath><path d="M1,10 L15,10" stroke="rgb(0,122,164)" id="GUTFELD!" style="fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(0, 122, 164);"/></g><text transform="translate(455.046875, 64.78125)" id="GUTFELD!"><tspan fill="rgb(24,24,24)" x="0" y="12.828125" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 12px;">Gutfield!</tspan></text><g id="tooltip-layer-svg" clip-path="url(#rect-mask-Mfs0MrR_D497ByRlHc9ft)" transform="translate(0, 62)"><clipPath id="rect-mask-Mfs0MrR_D497ByRlHc9ft"><rect x="0" y="0" width="2000" height="405"/></clipPath><g id="group-svg" transform="translate(58.14063, 40)"/></g></g><g id="footer-svg"><text transform="translate(0, 487)"><tspan fill="rgb(136,136,136)" x="0" y="11" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 11px;">Source</tspan><tspan fill="rgb(136,136,136)" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 11px;">:</tspan><tspan fill="rgb(136,136,136)" dx="2.734375" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 11px;">Mediaite</tspan><tspan fill="rgb(136,136,136)" dx="2.734375" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 11px;">•</tspan><tspan fill="rgb(136,136,136)" dx="2.734375" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 11px;">Created with</tspan><tspan fill="rgb(136,136,136)" dx="2.734375" style="font-family: Roboto; font-weight: 400; font-stretch: 100%; font-size: 11px;">Datawrapper</tspan></text></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="exportSvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 500" style="enable-background:new 0 0 600 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_00000000904078778922088480000000826715987664175790_);}
+	.st2{clip-path:url(#SVGID_00000141449539177257738240000007815844315727053699_);}
+	.st3{font-family:'RobotoSlab-Regular';}
+	.st4{font-size:22px;}
+	.st5{fill:#181818;}
+	.st6{font-size:14px;}
+	.st7{clip-path:url(#SVGID_00000170980985367284384220000004879670359022187179_);}
+	.st8{fill:none;stroke:#E7E7E7;}
+	.st9{fill:none;stroke:#88F5FF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st10{fill:none;stroke:#58CAF8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st11{fill:none;stroke:#18A1CD;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st12{fill:none;stroke:#007AA4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st13{fill:none;stroke:#00557D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st14{opacity:0.75;fill:#88F5FF;enable-background:new    ;}
+	.st15{opacity:0.75;fill:#58CAF8;enable-background:new    ;}
+	.st16{opacity:0.75;fill:#18A1CD;enable-background:new    ;}
+	.st17{opacity:0.75;fill:#007AA4;enable-background:new    ;}
+	.st18{opacity:0.75;fill:#00557D;enable-background:new    ;}
+	.st19{fill:#747474;}
+	.st20{font-size:12px;}
+	.st21{fill:#A2A2A2;}
+	.st22{fill:none;stroke:#181818;stroke-linecap:square;}
+	.st23{clip-path:url(#SVGID_00000085972753633722790550000011142630880391199114_);}
+	.st24{clip-path:url(#SVGID_00000119808324179419079220000017516749609268197293_);}
+	.st25{clip-path:url(#SVGID_00000169545371367224658700000011678640003476653458_);}
+	.st26{clip-path:url(#SVGID_00000094609506584762536670000009218287732580328072_);}
+	.st27{clip-path:url(#SVGID_00000141439990189470667060000000516804222916220298_);}
+	.st28{clip-path:url(#SVGID_00000147920687446866605340000007022290054444651183_);}
+	.st29{fill:#888888;}
+	.st30{font-size:11px;}
+</style>
+<rect x="77" y="-211.8" class="st0" width="600" height="500"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="600" height="500"/>
+		</defs>
+		<clipPath id="SVGID_00000174587249289325910680000004851687509081704867_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="__svelte-dw-svg" style="clip-path:url(#SVGID_00000174587249289325910680000004851687509081704867_);">
+			<g>
+				<defs>
+					<rect id="SVGID_00000084516848795987877590000008599750092906671772_" width="600" height="500"/>
+				</defs>
+				<clipPath id="SVGID_00000177443473321560160260000016955600466996989112_">
+					<use xlink:href="#SVGID_00000084516848795987877590000008599750092906671772_"  style="overflow:visible;"/>
+				</clipPath>
+				
+					<g id="outer-container-svg_dw-chart-styles-svg_datawrapper-6CDpQ-cadg66-svg_svelte-crzbxb-svg_static-svg" style="clip-path:url(#SVGID_00000177443473321560160260000016955600466996989112_);">
+					<g id="header-svg">
+						<text transform="matrix(1 0 0 1 0 22)" class="st3 st4">Fox News Primetime (+ The Five) Performance in June 2022</text>
+						<text transform="matrix(1 0 0 1 0 49)" class="st5 st3 st6">*The data represents cable news ratings for Monday-Friday; the shows do not air on the</text>
+						<text transform="matrix(1 0 0 1 0 66)" class="st5 st3 st6">weekends.</text>
+					</g>
+					<g id="chart-svg">
+						<g>
+							<defs>
+								<rect id="SVGID_00000089552106926539336530000014875532936811436200_" y="79" width="600" height="388"/>
+							</defs>
+							<clipPath id="SVGID_00000061445029890361909690000000960153448212892302_">
+								<use xlink:href="#SVGID_00000089552106926539336530000014875532936811436200_"  style="overflow:visible;"/>
+							</clipPath>
+							
+								<g id="svg-main-svg" transform="translate(0, 79)" style="clip-path:url(#SVGID_00000061445029890361909690000000960153448212892302_);">
+								<g id="group-svg" transform="translate(58.14063, 40)">
+									<g id="x-grid-svg">
+									</g>
+									<g id="y-grid-svg">
+										<g id="y-grid-lines-svg_grid-y-svg_datawrapper-6CDpQ-1fn7900-svg">
+											<line class="st8" x1="0" y1="0" x2="539.9" y2="0"/>
+											<line class="st8" x1="0" y1="32.8" x2="539.9" y2="32.8"/>
+											<line class="st8" x1="0" y1="65.6" x2="539.9" y2="65.6"/>
+											<line class="st8" x1="0" y1="98.4" x2="539.9" y2="98.4"/>
+											<line class="st8" x1="0" y1="131.2" x2="539.9" y2="131.2"/>
+											<line class="st8" x1="0" y1="164" x2="539.9" y2="164"/>
+											<line class="st8" x1="0" y1="196.8" x2="539.9" y2="196.8"/>
+											<line class="st8" x1="0" y1="229.6" x2="539.9" y2="229.6"/>
+											<line class="st8" x1="0" y1="262.4" x2="539.9" y2="262.4"/>
+											<line class="st8" x1="0" y1="295.2" x2="539.9" y2="295.2"/>
+											<line class="st8" x1="0" y1="328" x2="539.9" y2="328"/>
+										</g>
+									</g>
+									<g id="lines-svg">
+										<g id="FIVE_x2C_-svg_THE-svg">
+											<path id="FIVE_x2C__THE" class="st9" d="M9.6,116.8L37,58.2l27.4,27.2l27.4-46.9l27.4,29l27.4,1.5L174,40.2l27.4-37.6
+												l27.4,49.5l27.4,30l27.4,32.8L311,35.1l27.4,13.6l27.4-1.5l27.4-1l27.4,29.2L448,41.7l27.4,19.2l27.4,9.8L530.2,91"/>
+										</g>
+										<g id="INGRAHAM-svg_ANGLE_x2C_-svg_THE-svg">
+											<path id="INGRAHAM_ANGLE_x2C__THE" class="st10" d="M9.6,281.6L37,236.3l27.4,19.2l27.4-15.7L119.2,122l27.4,148.7
+												l27.4-53.6l27.4-49.7l27.4,44.6l27.4-5.7l27.4,82.5l27.4-90l27.4,27.4l27.4-11.3l27.4-25.4l27.4,50.2L448,205l27.4,19.7
+												l27.4-29.4l27.4,18"/>
+										</g>
+										<g id="JESSE-svg_WATTERS-svg_PRIMETIME-svg">
+											<path id="JESSE_WATTERS_PRIMETIME" class="st11" d="M9.6,199.1L37,160.6L64.4,185l27.4-28.5l27.4-27.2l27.4,60.7
+												l27.4-78.4l27.4-22l27.4,56.7l27.4,11.3l27.4,43.8L311,96.6l27.4,47.2l27.4,5.9l27.4-26.7l27.4,93.6l27.4-76.4l27.4,10.7
+												l27.4-21.8l27.4,54.6"/>
+										</g>
+										<g id="GUTFELD_x21_-svg">
+											<path id="GUTFELD_x21_" class="st12" d="M9.6,250.6L37,235.5l27.4,3l27.4-9.5l27.4-32.3l27.4,51.7l27.4,1l27.4-20.8
+												l27.4-27.2l27.4,10.8l27.4,23l27.4-30l27.4,19l27.4-3.8l27.4-12.3l27.4,24.3l27.4-16.1h27.4l27.4,13.6l27.4-0.5"/>
+										</g>
+										<g id="HANNITY-svg">
+											<path id="HANNITY" class="st13" d="M9.6,205L37,159.1l27.4,52.6l27.4-26.6l27.4-71l27.4,98.1l27.4-43l27.4-147.4
+												l27.4,127.9l27.4,23.9l27.4,60.2l27.4-85.1l27.4,53.1l27.4-49.7l27.4-2l27.4,80.7l27.4-55.4l27.4,25.7l27.4-33.3
+												l27.4-1.8"/>
+										</g>
+									</g>
+									<g id="line-symbols-svg">
+										<path id="FIVE_x2C__THE_00000081627871532544260820000002766067697112205187_" class="st14" d="M14.6,116.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S14.6,114,14.6,116.8"/>
+										<path id="FIVE_x2C__THE_00000115485253027548611480000010680519815628024470_" class="st14" d="M42,58.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S42,55.5,42,58.2"/>
+										<path id="FIVE_x2C__THE_00000059279481597828237380000016451233855983061941_" class="st14" d="M69.4,85.4
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5s2.2-5,5-5C67.2,80.4,69.4,82.7,69.4,85.4"/>
+										<path id="FIVE_x2C__THE_00000017517169387569676150000001350702079960856506_" class="st14" d="M96.8,38.5
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S96.8,35.8,96.8,38.5"/>
+										<path id="FIVE_x2C__THE_00000086683033306678094410000004668968642806108571_" class="st14" d="M124.2,67.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S124.2,64.8,124.2,67.6"/>
+										<path id="FIVE_x2C__THE_00000110429704953289738770000007757271545592766629_" class="st14" d="M151.6,69c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S151.6,66.3,151.6,69"/>
+										<path id="FIVE_x2C__THE_00000132081862886309935660000005075884140267920286_" class="st14" d="M179,40.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S179,37.4,179,40.2"/>
+										<path id="FIVE_x2C__THE_00000108272053345694117260000008946887794135288196_" class="st14" d="M206.4,2.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S206.4-0.1,206.4,2.6"/>
+										<path id="FIVE_x2C__THE_00000038383186035228600060000005171197640969753532_" class="st14" d="M233.8,52.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S233.8,49.4,233.8,52.2"/>
+										<path id="FIVE_x2C__THE_00000121264330074476953810000006364491860293155251_" class="st14" d="M261.2,82.2
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5s2.2-5,5-5C259,77.2,261.2,79.4,261.2,82.2"/>
+										<path id="FIVE_x2C__THE_00000144309335919782510530000009752355727569931407_" class="st14" d="M288.6,115
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S288.6,112.2,288.6,115"/>
+										<path id="FIVE_x2C__THE_00000085209360542504235330000011517797437523246516_" class="st14" d="M316,35.1c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S316,32.3,316,35.1"/>
+										<path id="FIVE_x2C__THE_00000129206554974540848880000009207906288707671426_" class="st14" d="M343.4,48.7
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S343.4,45.9,343.4,48.7"/>
+										<path id="FIVE_x2C__THE_00000102521462333260992150000012411842901036611220_" class="st14" d="M370.8,47.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S370.8,44.5,370.8,47.2"/>
+										<path id="FIVE_x2C__THE_00000041262650431418441470000000179893253754057615_" class="st14" d="M398.2,46.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S398.2,43.5,398.2,46.2"/>
+										<path id="FIVE_x2C__THE_00000067925300354638764280000014395624532222632349_" class="st14" d="M425.6,75.4
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S425.6,72.7,425.6,75.4"/>
+										<path id="FIVE_x2C__THE_00000077305400627665588710000000281005411235147962_" class="st14" d="M453,41.7c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S453,38.9,453,41.7"/>
+										<path id="FIVE_x2C__THE_00000026155126752448851520000003433046692635908518_" class="st14" d="M480.4,60.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S480.4,58.1,480.4,60.8"/>
+										<path id="FIVE_x2C__THE_00000057830535871061957000000016532085068060888459_" class="st14" d="M507.8,70.7
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S507.8,67.9,507.8,70.7"/>
+										<path id="FIVE_x2C__THE_00000055677554562998762200000002808142938471142037_" class="st14" d="M535.2,91c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S535.2,88.3,535.2,91"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000168835396835189874020000003387940318823469445_" class="st15" d="M14.6,281.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S14.6,278.8,14.6,281.6"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000165212863419938998820000004685802455520823960_" class="st15" d="M42,236.3
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S42,233.6,42,236.3"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000062182211425095699750000017114075512847237289_" class="st15" d="M69.4,255.5
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5c0-2.8,2.2-5,5-5C67.2,250.5,69.4,252.8,69.4,255.5"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000019648160538881706360000012628584000230929593_" class="st15" d="M96.8,239.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S96.8,237,96.8,239.8"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000024721891525155381710000012543316739385087393_" class="st15" d="M124.2,122
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S124.2,119.3,124.2,122"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000083082249900113465050000009707576268248053916_" class="st15" d="M151.6,270.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S151.6,268,151.6,270.8"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000165221072051901532680000011672401461989205917_" class="st15" d="M179,217.1
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S179,214.4,179,217.1"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000095312593958482180420000013886800014316531365_" class="st15" d="M206.4,167.4
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S206.4,164.7,206.4,167.4"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000089573450871342342690000010129322045869870723_" class="st15" d="M233.8,212.1
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S233.8,209.3,233.8,212.1"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000035527537214081431610000016000790203838320304_" class="st15" d="M261.2,206.3
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5s2.2-5,5-5C259,201.3,261.2,203.6,261.2,206.3"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000062910218765228334770000003235066742040363672_" class="st15" d="M288.6,288.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S288.6,286,288.6,288.8"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000042713309532923334840000013280369724581457313_" class="st15" d="M316,198.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S316,196,316,198.8"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000048463188014938459420000018035781321354364324_" class="st15" d="M343.4,226.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S343.4,223.4,343.4,226.2"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000067925554972920259100000001731644782249318039_" class="st15" d="M370.8,214.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S370.8,212.1,370.8,214.8"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000043449875862547126920000007161974488315188878_" class="st15" d="M398.2,189.4
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S398.2,186.7,398.2,189.4"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000017506115050878438460000017133707137615911054_" class="st15" d="M425.6,239.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S425.6,236.8,425.6,239.6"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000029046182215869762130000012759525268836583591_" class="st15" d="M453,205
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S453,202.2,453,205"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000006695761859536879760000010678002857593817518_" class="st15" d="M480.4,224.7
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S480.4,221.9,480.4,224.7"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000103236470997170770790000003373972143327996347_" class="st15" d="M507.8,195.3
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S507.8,192.6,507.8,195.3"/>
+										<path id="INGRAHAM_ANGLE_x2C__THE_00000165916970300927693540000006493115446513450937_" class="st15" d="M535.2,213.4
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S535.2,210.6,535.2,213.4"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000101786022265946731630000011680655143564295602_" class="st16" d="M14.6,199.1
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S14.6,196.3,14.6,199.1"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000129184777138963056440000010637172030850674832_" class="st16" d="M42,160.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S42,157.8,42,160.6"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000054964699562399116970000008595937907451313848_" class="st16" d="M69.4,185
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5s2.2-5,5-5C67.2,180,69.4,182.2,69.4,185"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000026844587543767953440000004740869124819824036_" class="st16" d="M96.8,156.5
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S96.8,153.7,96.8,156.5"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000099632118231547565240000000235783813179548833_" class="st16" d="M124.2,129.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5c0-2.8,2.2-5,5-5S124.2,126.5,124.2,129.2"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000036219647381458044330000013147624448682199945_" class="st16" d="M151.6,189.9
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S151.6,187.2,151.6,189.9"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000116958383744209885160000003628653139866193025_" class="st16" d="M179,111.5
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S179,108.8,179,111.5"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000177484224425517547530000004171221068330376374_" class="st16" d="M206.4,89.5
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S206.4,86.8,206.4,89.5"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000126323068236385169570000012154320243717798821_" class="st16" d="M233.8,146.3
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S233.8,143.5,233.8,146.3"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000070090450112957717720000003523695056875367309_" class="st16" d="M261.2,157.6
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5s2.2-5,5-5C259,152.6,261.2,154.8,261.2,157.6"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000174591991204858952040000011125492816365611693_" class="st16" d="M288.6,201.4
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S288.6,198.6,288.6,201.4"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000112612739589678695470000006142606000535323522_" class="st16" d="M316,96.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S316,93.8,316,96.6"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000159455994833148747250000006717281769524412045_" class="st16" d="M343.4,143.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S343.4,141.1,343.4,143.8"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000098916780635463018010000002011942226716805788_" class="st16" d="M370.8,149.7
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S370.8,147,370.8,149.7"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000085249728573846378940000017676961029783678366_" class="st16" d="M398.2,123
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S398.2,120.2,398.2,123"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000057839765466845138980000010399475056869057187_" class="st16" d="M425.6,216.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S425.6,213.9,425.6,216.6"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000151531107187206829680000001857902704200319640_" class="st16" d="M453,140.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S453,137.5,453,140.2"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000173859565794432172840000016004914970337101474_" class="st16" d="M480.4,150.9
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S480.4,148.1,480.4,150.9"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000091722993890991760450000001913935669376156334_" class="st16" d="M507.8,129.1
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5c0-2.8,2.2-5,5-5S507.8,126.3,507.8,129.1"/>
+										<path id="JESSE_WATTERS_PRIMETIME_00000108992354253769762460000001386019716708291478_" class="st16" d="M535.2,183.7
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S535.2,180.9,535.2,183.7"/>
+										<path id="GUTFELD_x21__00000091694920441915219260000001960370461727168133_" class="st17" d="M14.6,250.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S14.6,247.8,14.6,250.6"/>
+										<path id="GUTFELD_x21__00000115475815671265583510000003387537630618146740_" class="st17" d="M42,235.5c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S42,232.7,42,235.5"/>
+										<path id="GUTFELD_x21__00000075141004507378579130000010096116044888816789_" class="st17" d="M69.4,238.5
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5s2.2-5,5-5C67.2,233.5,69.4,235.7,69.4,238.5"/>
+										<path id="GUTFELD_x21__00000087397832425757821440000015056265200210901385_" class="st17" d="M96.8,228.9
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S96.8,226.2,96.8,228.9"/>
+										<path id="GUTFELD_x21__00000080177224310062026360000013395451326131447703_" class="st17" d="M124.2,196.6
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S124.2,193.9,124.2,196.6"/>
+										<path id="GUTFELD_x21__00000181790034373115690260000015130266479294711444_" class="st17" d="M151.6,248.3
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S151.6,245.5,151.6,248.3"/>
+										<path id="GUTFELD_x21__00000046321976017914951300000003739363863911128210_" class="st17" d="M179,249.3c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S179,246.5,179,249.3"/>
+										<path id="GUTFELD_x21__00000076579730397267481950000004318361443277226896_" class="st17" d="M206.4,228.5
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S206.4,225.7,206.4,228.5"/>
+										<path id="GUTFELD_x21__00000093881462494115617490000015519934045224278974_" class="st17" d="M233.8,201.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S233.8,198.5,233.8,201.2"/>
+										<path id="GUTFELD_x21__00000027593714240114226920000016011111684841211300_" class="st17" d="M261.2,212.1
+											c0,2.8-2.2,5-5,5c-2.8,0-5-2.2-5-5s2.2-5,5-5C259,207.1,261.2,209.3,261.2,212.1"/>
+										<path id="GUTFELD_x21__00000016059676451619525920000006861105976307065734_" class="st17" d="M288.6,235c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S288.6,232.3,288.6,235"/>
+										<path id="GUTFELD_x21__00000023980330509475577660000009483692429200797084_" class="st17" d="M316,205c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S316,202.2,316,205"/>
+										<path id="GUTFELD_x21__00000052826849246198793110000014822322068446942347_" class="st17" d="M343.4,224c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S343.4,221.3,343.4,224"/>
+										<path id="GUTFELD_x21__00000178911515288854270700000008184719298968386693_" class="st17" d="M370.8,220.3
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S370.8,217.5,370.8,220.3"/>
+										<path id="GUTFELD_x21__00000008858193645515642450000005471789174002039942_" class="st17" d="M398.2,208c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S398.2,205.2,398.2,208"/>
+										<path id="GUTFELD_x21__00000021812980174841090950000006549032563692581281_" class="st17" d="M425.6,232.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S425.6,229.5,425.6,232.2"/>
+										<path id="GUTFELD_x21__00000065039089189806708880000013076458449069143168_" class="st17" d="M453,216.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S453,213.4,453,216.2"/>
+										<path id="GUTFELD_x21__00000034770441634910375940000011699648444194634652_" class="st17" d="M480.4,216.2
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S480.4,213.4,480.4,216.2"/>
+										<path id="GUTFELD_x21__00000150817554725007989880000015314356364678389908_" class="st17" d="M507.8,229.8
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S507.8,227,507.8,229.8"/>
+										<path id="GUTFELD_x21__00000036240075487392096380000016352351908327289230_" class="st17" d="M535.2,229.3
+											c0,2.8-2.2,5-5,5s-5-2.2-5-5s2.2-5,5-5S535.2,226.5,535.2,229.3"/>
+										<path id="HANNITY_00000013164381347347938200000001321679861402667449_" class="st18" d="M14.6,205c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S14.6,202.2,14.6,205"/>
+										<path id="HANNITY_00000146465946050176408380000003220632887016555136_" class="st18" d="M42,159.1c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S42,156.3,42,159.1"/>
+										<path id="HANNITY_00000086688666789020628650000010637459286248882869_" class="st18" d="M69.4,211.7c0,2.8-2.2,5-5,5
+											c-2.8,0-5-2.2-5-5s2.2-5,5-5C67.2,206.7,69.4,209,69.4,211.7"/>
+										<path id="HANNITY_00000152257161460297712080000018235215798169489325_" class="st18" d="M96.8,185.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S96.8,182.4,96.8,185.2"/>
+										<path id="HANNITY_00000176007050504641136050000009615082425437448111_" class="st18" d="M124.2,114.1c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S124.2,111.4,124.2,114.1"/>
+										<path id="HANNITY_00000120539988142001767750000002304262820577164677_" class="st18" d="M151.6,212.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S151.6,209.5,151.6,212.2"/>
+										<path id="HANNITY_00000065765445504674590160000003025726205781023894_" class="st18" d="M179,169.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S179,166.5,179,169.2"/>
+										<path id="HANNITY_00000005235725497114824500000013099511151392297364_" class="st18" d="M206.4,21.8c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S206.4,19.1,206.4,21.8"/>
+										<path id="HANNITY_00000106846783872264651520000010140483475596766850_" class="st18" d="M233.8,149.7c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S233.8,147,233.8,149.7"/>
+										<path id="HANNITY_00000131347655621452069920000004951914985559912087_" class="st18" d="M261.2,173.7c0,2.8-2.2,5-5,5
+											c-2.8,0-5-2.2-5-5s2.2-5,5-5C259,168.7,261.2,170.9,261.2,173.7"/>
+										<path id="HANNITY_00000121971468700549290440000016592945024446580136_" class="st18" d="M288.6,233.9c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S288.6,231.1,288.6,233.9"/>
+										<path id="HANNITY_00000093872201567654517370000002806195489317800105_" class="st18" d="M316,148.7c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S316,146,316,148.7"/>
+										<path id="HANNITY_00000169518396371467251960000003589048110143371654_" class="st18" d="M343.4,201.9c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S343.4,199.1,343.4,201.9"/>
+										<path id="HANNITY_00000034087555065550215480000001156778409436658842_" class="st18" d="M370.8,152.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S370.8,149.4,370.8,152.2"/>
+										<path id="HANNITY_00000098210694762001613860000003351182755156106642_" class="st18" d="M398.2,150.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S398.2,147.5,398.2,150.2"/>
+										<path id="HANNITY_00000095338211092379233620000001462308365448581051_" class="st18" d="M425.6,230.9c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S425.6,228.2,425.6,230.9"/>
+										<path id="HANNITY_00000131325064298914505180000016543229112002580894_" class="st18" d="M453,175.5c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S453,172.7,453,175.5"/>
+										<path id="HANNITY_00000179625718413072156500000005987300769038423699_" class="st18" d="M480.4,201.2c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S480.4,198.5,480.4,201.2"/>
+										<path id="HANNITY_00000119830731042349555710000000506331140997885373_" class="st18" d="M507.8,167.9c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S507.8,165.2,507.8,167.9"/>
+										<path id="HANNITY_00000044163728122642955410000008939426484488523174_" class="st18" d="M535.2,166.1c0,2.8-2.2,5-5,5
+											s-5-2.2-5-5s2.2-5,5-5S535.2,163.4,535.2,166.1"/>
+									</g>
+									<g id="x-grid-svg_00000138536343351898026680000018011009352752364452_">
+										<g id="x-tick-labels-svg_text-axis-svg_grid-x-svg_datawrapper-6CDpQ-63wp0p-svg" transform="translate(0, 333)">
+											<text transform="matrix(1 0 0 1 -6.9774 12)" class="st19 st3 st20">2-Jun</text>
+											<text transform="matrix(1 0 0 1 47.7818 12)" class="st19 st3 st20">6-Jun</text>
+											<text transform="matrix(1 0 0 1 102.6171 12)" class="st19 st3 st20">8-Jun</text>
+											<text transform="matrix(1 0 0 1 154.9417 12)" class="st19 st3 st20">12-Jun</text>
+											<text transform="matrix(1 0 0 1 209.5749 12)" class="st19 st3 st20">14-Jun</text>
+											<text transform="matrix(1 0 0 1 264.4981 12)" class="st19 st3 st20">16-Jun</text>
+											<text transform="matrix(1 0 0 1 318.3842 12)" class="st19 st3 st20">20-Jun</text>
+											<text transform="matrix(1 0 0 1 373.2899 12)" class="st19 st3 st20">22-Jun</text>
+											<text transform="matrix(1 0 0 1 428.0491 12)" class="st19 st3 st20">26-Jun</text>
+											<text transform="matrix(1 0 0 1 482.8844 12)" class="st19 st3 st20">28-Jun</text>
+										</g>
+									</g>
+									<g id="y-grid-svg_00000168096610677839241770000001905114903424658857_">
+										<g id="y-tick-labels-svg_number-axis-svg_grid-y-svg_datawrapper-6CDpQ-yhj5g2-svg" transform="translate(-5, 0)">
+											<text transform="matrix(1 0 0 1 -50.7422 332)" class="st21 st3 st20">1,000,000</text>
+											<text transform="matrix(1 0 0 1 -50.5254 299.2)" class="st21 st3 st20">1,200,000</text>
+											<text transform="matrix(1 0 0 1 -50.8535 266.4)" class="st21 st3 st20">1,400,000</text>
+											<text transform="matrix(1 0 0 1 -50.6016 233.6)" class="st21 st3 st20">1,600,000</text>
+											<text transform="matrix(1 0 0 1 -50.5254 200.8)" class="st21 st3 st20">1,800,000</text>
+											<text transform="matrix(1 0 0 1 -52.4238 168)" class="st21 st3 st20">2,000,000</text>
+											<text transform="matrix(1 0 0 1 -52.207 135.2)" class="st21 st3 st20">2,200,000</text>
+											<text transform="matrix(1 0 0 1 -52.5352 102.4)" class="st21 st3 st20">2,400,000</text>
+											<text transform="matrix(1 0 0 1 -52.2832 69.6)" class="st21 st3 st20">2,600,000</text>
+											<text transform="matrix(1 0 0 1 -52.207 36.8)" class="st21 st3 st20">2,800,000</text>
+											<text transform="matrix(1 0 0 1 -52.2773 4)" class="st21 st3 st20">3,000,000</text>
+										</g>
+										<g id="y-base-lines-svg_grid-y-svg_datawrapper-6CDpQ-1io9s9d-svg">
+											<line class="st22" x1="539.9" y1="492" x2="0" y2="492"/>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<rect id="SVGID_00000121268530900764171860000017027602923334810258_" y="79" width="16" height="20"/>
+							</defs>
+							<clipPath id="SVGID_00000106147792753978510650000003559189334638867346_">
+								<use xlink:href="#SVGID_00000121268530900764171860000017027602923334810258_"  style="overflow:visible;"/>
+							</clipPath>
+							
+								<g id="FIVE_x2C_-svg_THE-svg_00000168108029536469117410000008274627085768558783_" transform="translate(0, 79)" style="clip-path:url(#SVGID_00000106147792753978510650000003559189334638867346_);">
+								<path id="FIVE_x2C__THE_00000025401253219573059610000008289326186924368319_" class="st9" d="M1,10h14"/>
+							</g>
+						</g>
+						<text transform="matrix(1 0 0 1 20 94.6094)" class="st5 st3 st20">The Five</text>
+						<g>
+							<defs>
+								<rect id="SVGID_00000092418413751396392000000005642262252550351245_" x="72.8" y="79" width="16" height="20"/>
+							</defs>
+							<clipPath id="SVGID_00000085947598935372767650000003493465237301455532_">
+								<use xlink:href="#SVGID_00000092418413751396392000000005642262252550351245_"  style="overflow:visible;"/>
+							</clipPath>
+							
+								<g id="JESSE-svg_WATTERS-svg_PRIMETIME-svg_00000150061749909306933430000010652942974313151407_" transform="translate(72.75, 79)" style="clip-path:url(#SVGID_00000085947598935372767650000003493465237301455532_);">
+								<path id="JESSE_WATTERS_PRIMETIME_00000089552291137453973500000000546892338866887584_" class="st11" d="M1,10h14"/>
+							</g>
+						</g>
+						<text transform="matrix(1 0 0 1 92.75 94.6094)" class="st5 st3 st20">Jesse Waters Primetime</text>
+						<g>
+							<defs>
+								<rect id="SVGID_00000006696464036341195620000008573299518048610979_" x="231" y="79" width="16" height="20"/>
+							</defs>
+							<clipPath id="SVGID_00000125599938335330841510000007147659188315321488_">
+								<use xlink:href="#SVGID_00000006696464036341195620000008573299518048610979_"  style="overflow:visible;"/>
+							</clipPath>
+							
+								<g id="HANNITY-svg_00000132787746017330250550000015612043944093707666_" transform="translate(231.04688, 79)" style="clip-path:url(#SVGID_00000125599938335330841510000007147659188315321488_);">
+								<path id="HANNITY_00000085249232923395222900000006194367339649143967_" class="st13" d="M1,10h14"/>
+							</g>
+						</g>
+						<text transform="matrix(1 0 0 1 251.0469 94.6094)" class="st5 st3 st20">Hannity</text>
+						<g>
+							<defs>
+								<rect id="SVGID_00000124874161966267941270000011367395690474552233_" x="299.9" y="79" width="16" height="20"/>
+							</defs>
+							<clipPath id="SVGID_00000133507884968340572330000001063949431425163934_">
+								<use xlink:href="#SVGID_00000124874161966267941270000011367395690474552233_"  style="overflow:visible;"/>
+							</clipPath>
+							
+								<g id="INGRAHAM-svg_ANGLE_x2C_-svg_THE-svg_00000031895208781795099950000010338333185641652409_" transform="translate(299.89063, 79)" style="clip-path:url(#SVGID_00000133507884968340572330000001063949431425163934_);">
+								<path id="INGRAHAM_ANGLE_x2C__THE_00000062914561758547925440000015331424206024407723_" class="st10" d="M1,10h14"/>
+							</g>
+						</g>
+						<text transform="matrix(1 0 0 1 319.8906 94.6094)" class="st5 st3 st20">The Ingraham Angle</text>
+						<g>
+							<defs>
+								<rect id="SVGID_00000093148024287790649030000016190582297981700520_" x="435" y="79" width="16" height="20"/>
+							</defs>
+							<clipPath id="SVGID_00000006689578913321092230000010478601604938544563_">
+								<use xlink:href="#SVGID_00000093148024287790649030000016190582297981700520_"  style="overflow:visible;"/>
+							</clipPath>
+							
+								<g id="GUTFELD_x21_-svg_00000119806487308174249000000017609682405159263414_" transform="translate(435.04688, 79)" style="clip-path:url(#SVGID_00000006689578913321092230000010478601604938544563_);">
+								<path id="GUTFELD_x21__00000160162970683948932350000006544327566824869256_" class="st12" d="M1,10h14"/>
+							</g>
+						</g>
+						<text transform="matrix(1 0 0 1 455.0469 94.6094)" class="st5 st3 st20">Gutfield!</text>
+						<g>
+							<defs>
+								<rect id="SVGID_00000116950127585023702860000017642002164255434910_" y="79" width="600" height="388"/>
+							</defs>
+							<clipPath id="SVGID_00000025432867916117931690000008762592801550867593_">
+								<use xlink:href="#SVGID_00000116950127585023702860000017642002164255434910_"  style="overflow:visible;"/>
+							</clipPath>
+							
+								<g id="tooltip-layer-svg" transform="translate(0, 79)" style="clip-path:url(#SVGID_00000025432867916117931690000008762592801550867593_);">
+								<g id="group-svg_00000108996220590241005860000008213215646867469751_" transform="translate(58.14063, 40)">
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="footer-svg">
+						<text transform="matrix(1 0 0 1 0 498)" class="st29 st3 st30">Source</text>
+						<text transform="matrix(1 0 0 1 35.8413 498)" class="st29 st3 st30">:</text>
+						<text transform="matrix(1 0 0 1 40.8262 498)" class="st29 st3 st30">Mediaite</text>
+						<text transform="matrix(1 0 0 1 89.5371 498)" class="st29 st3 st30">•</text>
+						<text transform="matrix(1 0 0 1 95.9829 498)" class="st29 st3 st30">Created with</text>
+						<text transform="matrix(1 0 0 1 165.3457 498)" class="st29 st3 st30">Datawrapper</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
