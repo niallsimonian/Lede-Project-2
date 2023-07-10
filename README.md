@@ -1,4 +1,4 @@
-Lede Project 2 : 'Trump still the biggest draw for Fox News Viewers'
+Lede Project 2 : 'Trump still a big draw for Fox News Viewers'
  https://niallsimonian.github.io/LedeProjects/
 
 In this project, with regards to data scraping, I aimed to demostrate my ability to used Python + BeautifulSoup to scrape data from the HTML of multiple web pages and then analyze that data using Pandas. 
